@@ -1,3 +1,4 @@
 # little-lemon
-little app
+little
+
 Assignmen5/
